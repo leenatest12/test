@@ -1,3 +1,2 @@
 this is change in file.
 This is for multiple file.
-This is for changes after commit.
